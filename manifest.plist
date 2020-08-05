@@ -28,7 +28,7 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>200448823@student.georgianc.on.ca</key>
+				<key>bundle-identifier</key>
 				<string>ca.georgiancollege.mdev2020.MedWatch</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
